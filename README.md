@@ -4,7 +4,7 @@
 
 ![Screenshot of dashboard](https://i.imgur.com/UujCjhB.png)
 
-[Link to dataset](www.linkedin.com/in/chia-poh-lian-058a2a61)
+[Link to dataset](https://people.sc.fsu.edu/~jburkardt/data/csv/addresses.csv)
 
 Description of dataset
 
