@@ -1,4 +1,4 @@
-# My first capstone
+# Capstone on Interactive Dashboards with Excel
 
 ### An analysis of snake-eating squirrels in Peru in 1988
 
